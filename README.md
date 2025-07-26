@@ -1,4 +1,4 @@
-# LAKUNA FOOD
+# LAKUNA FOOD APP
 
 A custom food ordering system for a personal restaurant.
 
